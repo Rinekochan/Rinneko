@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## <span style="color:#f07">Welcome to my Blog!!</span>
 
 You can use the [editor on GitHub](https://github.com/Rinekochan/Rinneko/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
